@@ -1,6 +1,6 @@
 # Face Generation GANs
 
-This project is a part of [CSCI-P 556 APPLIED MACHINE LEARNING](https://luddy.indiana.edu/academics/courses/class/iub-spring-2021-csci-p556) course during my [Master's Data Science](https://datascience.indiana.edu/programs/residential/index.html) at Indiana University Bloomington 
+As part of my [CSCI-P 556 APPLIED MACHINE LEARNING](https://luddy.indiana.edu/academics/courses/class/iub-spring-2021-csci-p556) course during my [Master's Data Science](https://datascience.indiana.edu/programs/residential/index.html) final project at Indiana University Bloomington 
 
 --------
 [Syllabus : Project Details](files/Project_Details.pdf)
